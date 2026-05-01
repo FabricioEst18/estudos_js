@@ -1,0 +1,1 @@
+console.log("Este é o script do final do body, buscando um arquivo externo, depois de já ter carregado o HTML");

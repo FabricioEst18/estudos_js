@@ -4,8 +4,9 @@
       "name": "Default",
       "files": [
         ".vscode/changelists.json",
-        "00_primeiro_programa/index.html",
-        "01_inserir_js/index.html"
+        "01_inserir_js/index.html",
+        "01_inserir_js/js/scripts.js",
+        "01_inserir_js/js/scripts2.js"
       ]
     }
   ],

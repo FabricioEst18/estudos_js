@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inserir JS</title>
+  <!-- Se você inserir o código do JS nele, o script será carregado
+   ANTES DO HTML SER CARREGADO -->
+  <script src="js/scripts.js"></script>
+</head>
+<body>
+  <script>
+    // Forma ruim de inserir JS , ruim para manutenções
+    console.log("Script no body!");
+  </script>
+  <!-- Melhor forma de inserir JS, colocando o script no final do body é
+   possível esperar todo o HTML ser carregado e só após isso o JS será executado. -->
+  <script src="js/scripts2.js"></script>
+</body>
+</html>
