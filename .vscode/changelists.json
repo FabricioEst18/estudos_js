@@ -4,9 +4,10 @@
       "name": "Default",
       "files": [
         ".vscode/changelists.json",
-        "01_inserir_js/index.html",
-        "01_inserir_js/js/scripts.js",
-        "01_inserir_js/js/scripts2.js"
+        "02_particularidades_js/index.html",
+        "02_particularidades_js/js/scripts.js",
+        "02_particularidades_js/js/scripts2.js",
+        "02_particularidades_js/js/scripts3.js"
       ]
     }
   ],
