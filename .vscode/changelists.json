@@ -4,8 +4,8 @@
       "name": "Default",
       "files": [
         ".vscode/changelists.json",
-        "04_tipos_de_dados_undefinedANDnull/index.html",
-        "04_tipos_de_dados_undefinedANDnull/js/scripts.js"
+        "04_tipos_de_dados_object/index.html",
+        "04_tipos_de_dados_object/js/scripts.js"
       ]
     }
   ],
